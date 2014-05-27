@@ -1,0 +1,1 @@
+﻿- Buffer Pool benutzen (Memory Fragmentation)
